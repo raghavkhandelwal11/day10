@@ -1,0 +1,51 @@
+hey there!
+
+we will learn some git commands:
+
+1) cd : change directory
+    cd. "relative_path"
+
+2) ls - listing th files in the current folder(directory)
+
+3) notepad - used to create files
+
+4) mkdir - make directory (creating folder)
+
+5) rmdir - remove directory (delete folder)
+
+6) code . - useed for opening the current folder in the directory
+
+7) pwd - present working directory
+
+8) rm filename - to remove a file
+
+
+
+
+
+
+
+
+
+
+Git terminal commands: 
+  
+
+1) cd  - change directory
+    cd 'relative_path'
+2)ls (dir)  - listing the files & folders in the current folder(directory) 
+
+3) touch 'file_name' - used to create files
+   
+4) mkdir - make directory (creating folder) 
+   mkdir 'folder_name' 
+5) rmdir - remove directory (delete folder) 
+   rmdir 'folder_name' 
+6)code . -> used for opening the current folder in vscode directly 
+     code .
+7) pwd -> present working directory
+    pwd
+8) rm - used to delete file 
+   rm 'file_name' 
+current folder -> aravind(c:/users/aravind)
+
